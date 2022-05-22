@@ -1,3 +1,13 @@
+// Given the integer N, the task is to print all the numbers less than N, which are divisible by 3 and 5.
+// Examples : 
+ 
+
+// Input : 50
+// Output : 0 15 30 45 
+
+// Input : 100
+// Output : 0 15 30 45 60 75 90 
+
 import java.util.Scanner;
 public class sumOfNumberDivisibleBy3And5 {
     

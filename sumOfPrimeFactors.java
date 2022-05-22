@@ -1,3 +1,10 @@
+// Steps to Find the Sum of Prime Numbers
+// Read or initialize the lower and upper limit.
+// Iterate a loop (for or while) to find the prime numbers between the given range.
+// If the number is prime, add that number to the variable sum and print the result.
+// Let's implement the above steps in a Java program.
+
+
 import java.util.Scanner;
 public class sumOfPrimeFactors {
     

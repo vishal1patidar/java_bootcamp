@@ -1,3 +1,12 @@
+// Input:  761622921 (00101101011001010111000110001001)
+ 
+// Output: 513454662 (00011110100110101011001001000110)
+ 
+// Explanation: (Every pair of adjacent bits swapped)
+ 
+// 00 10 11 01 01 10 01 01 01 11 00 01 10 00 10 01
+// 00 01 11 10 10 01 10 10 10 11 00 10 01 00 01 10
+
 import java.util.Scanner;
 public class swap_binary
 {

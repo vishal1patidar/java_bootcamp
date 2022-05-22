@@ -15,7 +15,7 @@
 // Hence, the given number 145 is a special number.
 
 // import java.util.Scanner;
-
+import java.util.Scanner;
 public class special_no {
     public static void main(String args[]) {
         int num, number, last_digit, sum_Of_Fact = 0;
